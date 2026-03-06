@@ -1,0 +1,11 @@
+Operator is a symbol used to perform some operation
+
+Types:
+ 1.Unary Operator
+ 2.Arithmetic Operator
+ 3.Comparision Operator
+ 4.Logical Operator
+ 5.Bitwise Operator
+ 6.Shift Operator
+ 7.Assignment Operator
+ 8.Ternary Operator
