@@ -1,0 +1,11 @@
+variables is a container used to storing or holding value
+name of the memory location
+vary+able we can change the value of the variable
+
+variable declaration-->int a;
+variable initialization-->int a=10;
+
+Types:
+ 1.Instancevariable
+ 2.Staticvariable
+ 3.Localvariable
