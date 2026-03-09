@@ -1,0 +1,24 @@
+-->Method is used to write the business logic of our program or application
+-->Collection of statement or block of code or set of instruction
+-->Code reusablity
+-->Once we write a methods we can call this method any where
+
+Types:
+  1.User defined method
+  2.Predefined method
+
+  Syntax:
+   accessmodifier keyword returntype methodname(Parameters)
+   {
+    ...logic...
+   }
+
+   Method Signature:
+    methodname(type of the Parameters)
+
+    Method Characteristics:
+     1.returntype with argument
+     2.returntype without argument
+     3.non returntype with argument
+     4.non returntype without argument
+     
