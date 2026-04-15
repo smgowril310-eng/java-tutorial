@@ -1,0 +1,19 @@
+Control statements is used to Control the flow of the program
+
+Types:
+1)Selection statements
+ 1.if
+ 2.if else
+ 3.if else if
+ 4.nested if
+ 5.switch
+
+ 2)Looping statements
+  1.for Loop
+  2.while loop
+  3.do while loop
+  4.for each loop
+  
+ 3)Jumping statements
+  1.break ->switch,loop
+  2.continue ->loop
