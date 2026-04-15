@@ -1,0 +1,9 @@
+It specify the visiblity of the Variable,Methods,Constructor and class
+
+Modifier  | Within class | Within package | other package sub class | other package
+public    | Yes          | Yes            | Yes                     | Yes
+protected | Yes          | Yes            | Yes                     | No
+default   | Yes          | Yes            | No                      | No
+private   | Yes          | No             | No                      | No 
+
+other package use ->import package1.demo;
