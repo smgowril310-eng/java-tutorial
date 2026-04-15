@@ -1,0 +1,11 @@
+-> Constructor is used to initialize the object
+-> also used to initialize the instance variables
+-> Constructor name should same as class name
+-> We cannot use return type,keyword likes static,final,abstract.
+-> we can use access modifier 
+-> it's also called as special type of method
+-> whenever the object is created constructor called automatically
+Types:
+1.Default Constructor
+2.No Argument Constructor
+3.Parameterised Constructor
