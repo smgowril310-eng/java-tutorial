@@ -1,0 +1,28 @@
+-> Scanner is a predefined class 
+
+java.util.Scanner;
+
+java -> main package
+util -> sub package
+Scanner -> class 
+
+-> get input from the user or file
+
+Scanner scan=new Scanner(System.in);//user
+ 
+Scanner scan1=new Scanner("c:/java/folder/java Basics/sample.txt");//file
+
+nextInt()
+nextFloat()
+nextLong()
+nextDouble()
+nextBoolean()
+next() -> single word string
+nextLine() -> string+space+string
+hasNext() ->next value 
+hasNextInt()
+hasNextFloat()
+
+CharAt()
+ char c=scan.next().CharAt(0);
+ System.out.println(c);
