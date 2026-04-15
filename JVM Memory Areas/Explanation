@@ -1,0 +1,6 @@
+Method Area(Class Area) -> static variable
+heap memory ->object,instance variable
+stack memory ->execution,create local variable 
+PC (program counter)Register ->current address execution
+Native Method stack ->Method declaration but no implementation
+other program(c or c++)implement
