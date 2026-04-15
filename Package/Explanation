@@ -1,0 +1,9 @@
+package -> set of classes and interfaces
+
+1.build in package
+ java.lang
+ java.util
+ java ->main package
+ util ->sub package
+
+2.user defined package
